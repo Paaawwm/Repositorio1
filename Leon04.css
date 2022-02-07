@@ -1,0 +1,31 @@
+body{
+    background-color: lightskyblue ;
+    border: lightgreen solid 5px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+nav{
+    text-align: center;
+    color: white;
+    font-style: oblique;
+    font-weight: bold;
+}
+a {
+    color: lightgreen;
+}
+h2{
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+}
+#lleon {
+    float: right;
+    margin: 0 0 0 5px;
+} 
+section {
+    color: white;
+    margin: 10px;
+}
